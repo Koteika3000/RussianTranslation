@@ -5109,7 +5109,7 @@ UI_20211217_005108	{@st41b}Items Sold{/}	{@st41b}판매 아이템{/}
 UI_20211217_005109	{@st59}Achievement/Adventure Journal(F4){/}	{@st59}업적/모험일지 (F4){/}	UI_20150317_000729	{@st59}Adventure Journal (F4){/}	{@st59}모험일지 (F4){/}	
 UI_20211217_005110	{@st66d}{s18}HOT Item{/}	{@st66d}{s18}HOT 아이템{/}	UI_20161107_002425	{@st66d}{s18}Top 5 Sellers{/}	{@st66d}{s18}인기 아이템 Top5{/}	
 UI_20211217_005111	Track	추적하기				
-UI_20211217_005112	Achievement Reward List	업적 보상 목록				
+UI_20211217_005112	Список наград за достижения	업적 보상 목록				
 UI_20211217_005113	Period : %s day(s) %s:%s:%s	기간제 : %s일 %s:%s:%s				
 UI_20211217_005114	Achievement is available after receiving the Master's Request.	해당 업적은 마스터 의뢰를 수령 후 진행하실 수 있습니다.				
 UI_20211217_005115	Achievement Reward	업적 보상				
@@ -5350,7 +5350,7 @@ UI_20220823_005349	{@st41}{#0e7fe8}Advanced{/}{/} {@st66b}{s22}|{/}{/}	{@st41}{#
 UI_20220823_005350	{@st41}{#ffa800}Superior{/}{/}	{@st41}{#ffa800}최상급{/}{/}				
 UI_20220823_005351	{@st41}{s16}  Класс: %s{/}	
 UI_20220823_005352	Класс ▼				
-UI_20220823_005353	Random Stat ▼	랜덤 옵션 ▼				
+UI_20220823_005353	Рандомный Параметер ▼	랜덤 옵션 ▼				
 UI_20220823_005354	{@st41}{#0e7fe8}Advanced{/}{/}	{@st41}{#0e7fe8}상급{/}{/}				
 UI_20220823_005355	{@st61}{s24}Goddess Rank Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient{/}.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor, Goddess Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커, 가디스 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 	UI_20210809_004760	{@st61}{s24}Goddess Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved random stat ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 랜덤 옵션 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 	
 UI_20220823_005356	{@st42}{s24}{#33ff33}Failure Adjusted ProbabilIty:{/}{/}{/}	{@st42}{s24}{#33ff33}누적 실패 보정:{/}{/}{/}	UI_20210809_004779	{@st42}{s24}Failure Adjusted ProbabilIty:{/}{/}	{@st42}{s24}누적 실패 보정:{/}{/}	
@@ -5526,3 +5526,270 @@ UI_20230522_005525	TP Shop Item	TP상점 아이템명
 UI_20230605_005526	{img test_cooltime 25 25}{s18}Points are reset every January/April/July/October 1st, 00:00 server time.	{img test_cooltime 25 25}{s18}1월/4월/7월/10월 1일 오전 0시에 보유하고 있는 포인트가 초기화됩니다.	INTL_20191216_000377	{img test_cooltime 25 25}{s18}Points are reset every quarter.	{img test_cooltime 25 25}{s18}매 분기마다 포인트 초기화가 진행됩니다.	
 UI_20230626_005527	Equipment Bound Removal Scroll	장비 귀속 해제 스크롤			
 UI_20230626_005528	{@st66}Use to remove the Character Bound.{/}	{@st66}사용 시 캐릭터 귀속 상태가 해제됩니다.{/}			
+UI_20230904_005529	{@st201}[Transfer Enhancement Level]{/}{/} Consume {@st66d_y}{s16}Aether Gem of a rank low{/}{/} to transfer the Enhancement level to the {@st66d_y}{s16}Aether Gem of the next rank{/}{/}{nl} - Only next rank's Aether Gem with {@st66d_y} {s16}maximum Enhancement level{/}{/} can be used as material.{nl} - Aether Gem will be transferred {@st66d_y}{s16}without any decrease in Enhancement level{/}{/}.{nl} - Can be applied to every Aether Gem{@st66d_y}{s16}despite the stat is not equal{/}{/} to the lower rank Aether Gem to be consumed. 	{@st201}[강화레벨 이전]{/}{/} {@st66d_y}{s16} 한 등급 낮은 에테르 젬{/}{/}을 소비하여,{@st66d_y}{s16} 다읍 등급의 에테르 젬{/}{/}에 강화레벨 이전을 진행합니다.{nl} - {@st66d_y}{s16}최대 강화레벨에 도달한{/}{/} 에테르 젬에 한하여 재료로 사용될 수 있습니다. {nl} - 에테르 젬은{@st66d_y}{s16}강화레벨 감소 없이{/}{/} 온전히 이전됩니다.{nl} - 소비될 낮은 등급의 에테르 젬의 종류와 {@st66d_y}{s16}동일한 능력치 젬이 아니어도 제약없이 모두 적용{/}{/} 가능합니다.	UI_20220823_005326	{@st201}[Transfer Enhancement Level]{/}{/} Consume {@st66d_y}{s16} [Lv.460] Aether Gem{/}{/}, to transfer the Enhancement level to the {@st66d_y}{s16} [Lv.480] Aether Gem{/}{/}{nl} - Only [Lv.460] Aether Gem with {@st66d_y} {s16}maximum Enhancement level{/}{/} can be used as material.{nl} - Aether Gem will be transferred {@st66d_y}{s16}without any decrease in Enhancement level{/}{/}.{nl} - Can be applied to every Aether Gem{@st66d_y}{s16}despite the stat is not equal{/}{/} to the type of [Lv.460] Aether Gem to be consumed. 	{@st201}[강화레벨 이전]{/}{/} {@st66d_y}{s16} [Lv.460] 에테르 젬{/}{/}을 소비하여,{@st66d_y}{s16} [Lv.480] 에테르 젬{/}{/}에 강화레벨 이전을 진행합니다.{nl} - {@st66d_y}{s16}최대 강화레벨에 도달한{/}{/} [Lv.460] 에테르 젬에 한하여 재료로 사용될 수 있습니다. {nl} - 에테르 젬은{@st66d_y}{s16}강화레벨 감소 없이{/}{/} 온전히 이전됩니다.{nl} - 소비 될 [Lv.460] 에테르 젬의 종류와 {@st66d_y}{s16}동일한 능력치 젬이 아니어도 제약없이 모두 적용{/}{/} 가능합니다.
+UI_20230904_005530	{@st43b}{s20}Place the item{nl} Lower Rank Aether Gem	{@st43b}{s20}아이템을 올려주세요{nl} 낮은 등급 에테르 젬	UI_20220823_005328	{@st43b}{s20}Place the item{nl} Consume:{@st66d_y} [Lv.460 Aether Gem]	{@st43b}{s20}아이템을 올려주세요{nl} 소비:{@st66d_y} [Lv.460 에테르 젬]
+UI_20230904_005531	{@st43b}{s20}Place the item{nl} Next Rank Aether Gem	{@st43b}{s20}아이템을 올려주세요{nl} 다음 등급 에테르 젬	UI_20220823_005330	{@st43b}{s20}Place the item{nl} Enhance:{@st66d_y} [Lv.480 Aether Gem]	{@st43b}{s20}아이템을 올려주세요{nl} 강화:{@st66d_y} [Lv.480 에테르 젬]
+UI_20230904_005532	{@st66b}Save Engraving(Ichor)	{@st66b}각인 저장(아이커)	UI_20210809_004794	{@st66b}Ichor	{@st66b}아이커
+UI_20230904_005533	{@st43b}{s22}Available Items from the Popo Roulette	{@st43b}{s22}포포 룰렛 획득 가능 아이템	UI_20200429_004256	{@st43b}{s22}Available Items from the Goddess' Roulette	{@st43b}{s22}여신의 룰렛 획득 가능 아이템
+UI_20230904_005534	{@st66b}Fallen Dragoon{/}	{@st66b}타락한 드라군{/}	UI_20210115_004579	{@st66b}Boruta{/}	{@st66b}보루타{/}
+UI_20230904_005535	Fallen Dragoon Blockade Battle 	타락한 드라군 봉쇄전	UI_20210115_004580	Battle in Sulivinas Lair	보루타 봉쇄전
+UI_20230904_005536	{@st59}Popo Boost{/}	{@st59}포포 부스트{/}			
+UI_20230904_005537	Advance Guide	성장 가이드			
+UI_20230904_005538	{@st66d_y}{s16}Popolion Roulette	{@st66d_y}{s16}포포리온 룰렛			
+UI_20230904_005539	※ The Gear Score of {#FFFF00}Weapon/Armor/Accessory{/} that is not from the event will not be reflected.	※ 이벤트 장비가 아닌 {#FFFF00}무기/방어구/액세서리{/}의 기어 스코어는 이벤트에 반영되지 않습니다.			
+UI_20230904_005540	From the Popo Boost event, {nl}{#FFFF00}reward will be given{/} each time the character participating in the event {#FFFF00}reaches a certain Gear Score{/} with the event equipment.{nl}{nl}Start the event and obtain the rewards!	포포 부스트 이벤트란, 이벤트에 참여한 캐릭터가{nl}{#FFFF00}특정 기어 스코어를 달성{/}할 때마다 {#FFFF00}보상을 지원{/}하는 이벤트 입니다.{nl}{nl}이벤트를 시작하고 보상을 획득하세요.			
+UI_20230904_005541	Condition : {#FFFF00}Lv.459{/} or below,{#FFFF00}Gear Score 7999{/} or below	참여 조건 : {#FFFF00}Lv.460{/} 미만,{#FFFF00}기어스코어 8000{/}미만			
+UI_20230904_005542	{#FFFF00}ONLY ONE character can participate in the Popo Boost event per team.{nl}The character chosen to participate in the event can not be changed.	{#FFFF00}포포 부스트 이벤트는 팀당 1개의 캐릭터만 참여 가능합니다.{nl}포포 부스트 이벤트의 참여 캐릭터는 변경할 수 없습니다.			
+UI_20230904_005543	Close	포포 부스트 UI를 닫습니다			
+UI_20230904_005544	{@st43}Craft Slogutis Card{/}	{@st43}슬로거티스 카드 제작{/}			
+UI_20230904_005545	{@st59}Giltine Card Lv10 required.{/}	{@st59}길티네 카드 10성이 필요합니다.{/}			
+UI_20230904_005546	{@st100white_16}Consume all items below and obtain {@st204_purple}{s17}[LV10] Slogutis Card{/}{/}{@st100white_16}. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}Ring of Chaos{/}{/} x20{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] Giltine Card{/}{/}{@st100white_16}x1{nl} {nl} - {@st204_green}Random{/}{/}{@st66d_y}{s17}[LV10] Legend Card{/}{/}{@st100white_16}x1{/}{/}	{@st100white_16}아래 아이템을 모두 소모하여 {@st204_purple}{s17}[LV10] 슬로거티스 카드{/}{/}{@st100white_16}를 획득합니다. {nl} {nl} - {@st100white_16}{@st66d_y}{s17}혼돈의 고리{/}{/}  20개{nl} {nl} - {@st59}{@st66d_y}{s17}[LV10] 길티네 카드{/}{/}{@st100white_16}1개{nl} {nl} - {@st204_green}임의의 {/}{/}{@st66d_y}{s17}[LV10] 레전드 카드{/}{/}{@st100white_16}1개{/}{/}			
+UI_20230904_005547	{@st59}Close.{/}	{@st59}슬로거티스 카드 제작 UI를 닫습니다.{/}			
+UI_20230904_005548	{@st42}Damage Skin Setting{/}	{@st42}대미지 스킨 설정{/}			
+UI_20230925_005549	{@st43}{#FF0000}{s15}※Skins can only be earned from last week's rewards.	{@st43}{#FF0000}{s15}※스킨은 지난주차 보상에서만 획득할 수 있습니다.				
+UI_20231113_005550	{@st41b}{s16}Reset	{@st41b}{s16}초기화				
+UI_20231113_005551	{@st59}Close{/}	{@st59}옵션 창을 닫습니다.{/}				
+UI_20231113_005552	Stop when the rank is up	랭크 업 시 정지				
+UI_20231113_005553	{@st66}{s16}{nl}Settings	{@st66}{s16}{nl}설정				
+UI_20231113_005554	{@st43b}{s18}Goal Stat	{@st43b}{s18}목표 옵션				
+UI_20231113_005555	{@st41b}{s18}Current Scrolls: %s{/}	{@st41b}{s18}현재 스크롤 보유 개수: %s개				
+UI_20231113_005556	Advanced Enchant Scroll	고급 마법 부여 스크롤				
+UI_20231113_005557	Repeat: 0	반복 : 0				
+UI_20231204_005558	{@st59}Retrieve TP{/}	{@st59}TP수령함{/}				
+UI_20231204_005559	{@st66d_y}{s16}Guide Quest	{@st66d_y}{s16}가이드 퀘스트				
+UI_20231204_005560	From the Popo Boost event, {nl}{#FFFF00}reward will be given{/} each time the character participating in the event {#FFFF00}reaches a certain Gear Score{/} with the event equipment.{nl}{nl}Start the event and obtain the rewards!	포포 부스트 이벤트란, 이벤트에 참여한 캐릭터가{nl}{#FFFF00}특정 기어스코어를 달성{/}할 때마다 {#FFFF00}보상을 지원{/}하는 이벤트 입니다.{nl}{nl}이벤트를 시작하고 보상을 획득하세요.	UI_20230904_005540	From the Popo Boost event, {nl}{#FFFF00}reward will be given{/} each time the character participating in the event {#FFFF00}reaches a certain Gear Score{/} with the event equipment.{nl}{nl}Start the event and obtain the rewards!	포포 부스트 이벤트란, 이벤트에 참여한 캐릭터가{nl}{#FFFF00}특정 기어 스코어를 달성{/}할 때마다 {#FFFF00}보상을 지원{/}하는 이벤트 입니다.{nl}{nl}이벤트를 시작하고 보상을 획득하세요.	
+UI_20231204_005561	Requirement: {#FFFF00}Lv.9{/} or below	참여 조건 : {#FFFF00}Lv.10{/} 미만	UI_20230904_005541	Condition : {#FFFF00}Lv.459{/} or below,{#FFFF00}Gear Score 7999{/} or below	참여 조건 : {#FFFF00}Lv.460{/} 미만,{#FFFF00}기어스코어 8000{/}미만	
+UI_20231218_005562	{@st43}{s24}Black Market - Goddess Token (Lada)	{@st43}{s24}블랙 마켓 - 여신의 증표(라다)				
+UI_20231218_005563	{@st43}{s24}M Coin	{@st43}{s24}M 주화				
+UI_20231218_005564	{@st43}{s32}Highest Bidding	{@st43}{s32}최고 입찰가				
+UI_20231218_005565	{@st43}{s24}%s Coin	{@st43}{s24}%s 주화				
+UI_20231218_005566	{@st43}{s24}Current Coin(s){nl}%s	{@st43}{s24}보유 주화{nl}%s				
+UI_20231218_005567	{@st43}{s18}Remaining : %s	{@st43}{s18}남은 시간 : %s				
+UI_20231218_005568	{@st43}{s40}No On-going Auction Info	{@st43}{s40}진행중인 경매 정보 없음				
+UI_20231218_005569	{@st43}{s24}Current Highest{nl}%s	{@st43}{s24}현재 최고가{nl}%s				
+UI_20231218_005570	{@st43}{s24}My Bidding{nl}%s	{@st43}{s24}나의 입찰가{nl}%s				
+UI_20231218_005571	{@st43}{s40}No Bid Info	{@st43}{s40}입찰 정보 없음				
+UI_20231218_005572	{@st66b}On-going Auction{/}	{@st66b}진행중인 경매{/}				
+UI_20231218_005573	{@st66b}Auction Schedule{/}	{@st66b}경매 일정{/}				
+UI_20231218_005574	{@st66b}My Auction Status{/}	{@st66b}나의 경매 현황{/}				
+UI_20231218_005575	{@st43}Dismantle List{/}	{@st43}분해 목록{/}				
+UI_20231218_005576	{@st41b}Total Snigo's Memory Piece earned : {/}	{@st41b}총 스니고의 기억조각 획득량 : {/}				
+UI_20231218_005577	Do you want to dismantle the item into Snigo's Memory Piece?	해당 아이템을 스니고의 기억조각으로 분해하시겠습니까?				
+UI_20231218_005578	{@st43}{s24}[Snigo's Memory Piece] Theme Item Dismantle Shop	{@st43}{s24}[스니고의 기억] 테마 상품 분해 상점				
+UI_20231218_005579	{@st43}{s24}Cart{/}	{@st43}{s24}장바구니{/}				
+UI_20231218_005580	{@st43}{s24}Cart{/}{@st66d}Dismantle All{/}	{@st66d}일괄 분해{/}				
+UI_20231218_005581	  [Snigo's Memory Piece]{/}	  [스니고의 기억조각]{/}				
+UI_20231218_005582	  dismantled, [Snigo's Memory Piece]{/} 	  분해 후 [스니고의 기억조각]{/}				
+UI_20231218_005583	[Snigo's Memory Piece] when dismantled	분해 시 [스니고의 기억조각]				
+UI_20231218_005584	Snigo's Memory Item in your possession	보유 중인 스니고의 기억 테마 상품				
+UI_20231218_005585	List of Items that can be Dismantled	분해 가능한 상품 목록				
+UI_20231218_005586	{@st43}{s22}{#FFFF00}Untl Start: %s	{@st43}{s22}{#FFFF00}시작까지 %s				
+UI_20231218_005587	{@st42}{s16}  Snigo's Memory Piece {/}{img icon_item_sniego_memorypiece 20 20}{/}	{@st42}{s16}  스니고의 기억조각 {/}{img icon_item_sniego_memorypiece 20 20}{/}				
+UI_20231218_005588	{@st42b}{s16}Add to Cart{/}	{@st42b}{s16}장바구니 추가{/}				
+UI_20240108_005589	Show Pattern Info	패턴 정보를 표시합니다.				
+UI_20240108_005590	{@st43b}{s20}Weekly Pattern Info	{@st43b}{s20}패턴 정보	UI_20200320_004212	{@st43b}{s20}Weekly Pattern Information	{@st43b}{s20}주간 패턴 정보	
+UI_20240108_005591	{@st59}Close{/}	{@st59}패턴 정보 창을 닫습니다{/}	UI_20200320_004213	{@st59}Close{/}	{@st59}주간 패턴 정보 창을 닫습니다{/}	
+UI_20240205_005592	{@st43}Upgrade Accessory{/}	{@st43}장신구 업그레이드{/}				
+UI_20240205_005593	{@st59}Close.{/}	{@st59}장신구 업그레이드 창을 닫습니다.{/}				
+UI_20240205_005594	{@st59b}{s20}Upgrade Accessory System{/}{nl}{@st59s} {nl} - Upgrade Accessory.	{@st59b}{s20}장신구 업그레이드 시스템{/}{nl}{@st59s} {nl} - 장신구를 업그레이드 합니다.				
+UI_20240205_005595	{@st43}{s18}Before{nl}%s{/}{nl}{@st43}{s18}%s	{@st43}{s18}기존{nl}%s{/}{nl}{@st43}{s18}%s				
+UI_20240205_005596	{@st43}{s18}After{nl}%s{/}{nl}{@st43}{s18}%s	{@st43}{s18}결과{nl}%s{/}{nl}{@st43}{s18}%s				
+UI_20240205_005597	{@st66d}{s20}Run{/}	{@st66d}{s20}실행{/}				
+UI_20240205_005598	{@st66b}{s16}Goddess/Demon God	{@st66b}{s16}여신/마신				
+UI_20240205_005599	{@st66b}{s16}Goddess Treasure	{@st66b}{s16}여신의 보구				
+UI_20240205_005600	Goddess Treasure	여신의 보구				
+UI_20240205_005601	{@st43}{s24}Probability Info	{@st43}{s24}확률 정보				
+UI_20240205_005602	{@st43}{s16}%sx	{@st43}{s16}%s개				
+UI_20240401_005603	{@st66b}Close	{@st66b}닫기				
+UI_20240401_005604	{st16}Fruit (Host)	{st16}열매 (초대한 팀)				
+UI_20240401_005605	{st16}Seed (Invitee)	{st16}씨앗 (초대받은 팀)				
+UI_20240401_005606	ABCDEFG	가나다라마바사아				
+UI_20240401_005607	Only the Seed (Invitee) can click the [Receive Rewards],{nl} and the reward is given both to the Fruit (Host) and the Seed.	[보상받기] 버튼은 해당 미션을 완료한 씨앗(초대받은 팀)만 누를 수 있고,{nl}보상은 열매(초대한 팀)와 씨앗 모두에게 지급됩니다.				
+UI_20240401_005608	{@st59}Invite Your Friends Event{/}	{@st59}친구 초대 이벤트{/}				
+UI_20240401_005609	{@st41}{s20}Success Rate :{@st43} %s%	{@st41}{s20}성공 확률 :{@st43} %s%				
+UI_20240401_005610	{@st43}{s22}Receive Rewards	{@st43}{s22}보상받기				
+UI_20240403_005611	{@st43}{s16}Receive Rewards	{@st43}{s16}보상받기	UI_20240401_005610	{@st43}{s22}Receive Rewards	{@st43}{s22}보상받기	
+UI_20240415_005612	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend/Goddess Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220622_005323	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend/Goddess Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	
+UI_20240422_005613	{@st66b}{s18}Field{/}	{@st66b}{s18}필드{/}			
+UI_20240422_005614	{@st66b}{s18}Equipment{/}	{@st66b}{s18}장비{/}			
+UI_20240422_005615	{@st66b}{s18}Costume{/}	{@st66b}{s18}코스튬{/}			
+UI_20240422_005616	{@st68}{s16}Collection Info{/}	{@st68}{s16}컬렉션 정보{/}			
+UI_20240422_005617	{@st68b}{s20}Complete(%s){/}	{@st68b}{s20}완성(%s){/}			
+UI_20240701_005618	Close.	큐폴 강화창을 닫습니다.				
+UI_20240701_005619	{@st100white_16}{#ffa800}Friendship	{@st100white_16}{#ffa800}호감도				
+UI_20240701_005620	{@st100white_16}{#ffa800}Rank	{@st100white_16}{#ffa800}등급				
+UI_20240701_005621	{@st100white_16}{#ffa800}Show Owned Only	{@st100white_16}{#ffa800}보유 큐폴만 보기				
+UI_20240701_005622	{img icon_item_kupole_gachaticket 20 20} {@st66d}{s18}%s/%s{nl}Roll Again{/}	{img icon_item_kupole_gachaticket 20 20} {@st66d}{s18}%s/%s{nl}한 번 더 영입{/}				
+UI_20240701_005623	{@st66d}{s18}Close	{@st66d}{s18}종료				
+UI_20240701_005624	{@st43}{s24}Kupole	{@st43}{s24}큐폴				
+UI_20240701_005625	Team	팀 편성				
+UI_20240701_005626	{@st66d}{s20}Total Kupole Bonus	{@st66d}{s20}총 보유 효과				
+UI_20240701_005627	{@st66d}{s16}Accompany	{@st66d}{s16}동행 효과				
+UI_20240701_005628	{@st66d}{s16}Owned	{@st66d}{s16}보유 효과				
+UI_20240701_005629	{@st43}{s20}Active	{@st43}{s20}액티브 스킬				
+UI_20240701_005630	{@st43}{s20}Passive	{@st43}{s20}패시브 스킬				
+UI_20240701_005631	{@st42}View Illustration{/}	{@st42}일러스트 보기{/}				
+UI_20240701_005632	{@st66d}{s23}Select	{@st66d}{s23}셀렉트				
+UI_20240701_005633	{@st59b}Left-click to open Kupole Recruitment window.{/}	{@st59b}마우스 좌클릭으로 큐폴 확정 영입 창을 켭니다.{/}				
+UI_20240701_005634	{@st66d}{s20}Guarantee Recruit	{@st66d}{s20}확정 영입				
+UI_20240701_005635	{@st66d}{s23}Single Pull	{@st66d}{s23}단차				
+UI_20240701_005636	{@st59b}Left-click to recruit Kupole 1 time.{/}	{@st59b}마우스 좌클릭으로 큐폴 영입을 1회 실행합니다.{/}				
+UI_20240701_005637	{@st66d}{s20}Recruit 1 time	{@st66d}{s20}큐폴 영입 1회				
+UI_20240701_005638	{@st66d}{s20}Multi Pull	{@st66d}{s20}연차				
+UI_20240701_005639	{@st59b}Left-click to recruit Kupole 10 times.{/}	{@st59b}마우스 좌클릭으로 큐폴 영입을 10회 실행합니다.{/}				
+UI_20240701_005640	{@st66d}{s20}Recruit 10+1	{@st66d}{s20}큐폴 영입 10회 + 1				
+UI_20240701_005641	{@st66b}Kupole Management{/}	{@st66b}큐폴 관리{/}				
+UI_20240701_005642	{@st66b}Kupole Recruitment{/}	{@st66b}큐폴 영입{/}				
+UI_20240701_005643	{@st66d}{s24}Accompany	{@st66d}{s24}동행				
+UI_20240701_005644	{@st66d}{s24}Remove	{@st66d}{s24}해제				
+UI_20240701_005645	Close.	큐폴 UI를 닫습니다.				
+UI_20240701_005646	{@st66d}{s22}Skill	{@st66d}{s22}스킬				
+UI_20240701_005647	{@st66d}{s22}Effect	{@st66d}{s22}효과				
+UI_20240701_005648	{@st66d}{s22}Item Info	{@st66d}{s22}아이템 정보				
+UI_20240701_005649	{@st66d}{s22}Accompany	{@st66d}{s22}동행 효과				
+UI_20240701_005650	{@st66d}{s22}Owned	{@st66d}{s22}보유 효과				
+UI_20240701_005651	{@st66d}{s20}Recruit	{@st66d}{s20}영입				
+UI_20240701_005652	{@st66d}{s24}Guarantee Recruit	{@st66d}{s24}큐폴 확정 영입				
+UI_20240701_005653	Close.	픽업 UI를 닫습니다.				
+UI_20240701_005654	Ruta	루타				
+UI_20240701_005655	{@st66d}{s20}Confirm	{@st66d}{s20}확인				
+UI_20240701_005656	{@st66d}{s20}UR	{@st66d}{s20}UR등급				
+UI_20240701_005657	{@st66d}{s20}SR	{@st66d}{s20}SR등급				
+UI_20240701_005658	{@st66d}{s20}R	{@st66d}{s20}R등급				
+UI_20240701_005659	{@st66d}{s24}Show Recruit Rate	{@st66d}{s24}영입 확률 표시				
+UI_20240701_005660	Close.	확률 UI를 닫습니다.				
+UI_20240701_005661	{@st66d}{s20}Hand Gift	{@st66d}{s20}선물 주기				
+UI_20240701_005662	{@st66d}{s20}Cancel	{@st66d}{s20}취소				
+UI_20240701_005663	{@st42b}{s24}{#FFFF00}Accompany{/}{nl}{@st42b}{s16} - %s	{@st42b}{s24}{#FFFF00}동행 효과{/}{nl}{@st42b}{s16} - %s				
+UI_20240701_005664	{@st42b}{s24}{#FFFF00}Owned{/}{nl}{@st42b}{s16} - %s	{@st42b}{s24}{#FFFF00}보유 효과{/}{nl}{@st42b}{s16} - %s				
+UI_20240701_005665	{@st42b}{s24}{#FFFF00}Active{/}{nl}{@st42b}{s16} - %s	{@st42b}{s24}{#FFFF00}스킬{/}{nl}{@st42b}{s16} - %s				
+UI_20240701_005666	{@st66d}{s20}Friendship UP	{@st66d}{s20}호감도 상승				
+UI_20240701_005667	{@st66d}{s24}Notice	{@st66d}{s24}알림				
+UI_20240701_005668	{@st42}{s18}Owned	{@st42}{s18}보유중				
+UI_20240722_005669	Fashion Museum	복각				
+UI_20240722_005670	{@st59}Close.{/}	{@st59}현재 창을 닫습니다.{/}				
+UI_20240722_005671	{@st42b}{s16}Select{/}	{@st42b}{s16}선택{/}				
+UI_20240909_005672	{@st43}Equipment Upgrade{/}	{@st43}장비 업그레이드{/}				
+UI_20240909_005673	{@st59}Close.{/}	{@st59}장비 업그레이드 창을 닫습니다.{/}				
+UI_20240909_005674	{@st59b}{s20}Equipment Upgrade System{/}{nl}{@st59s} {nl} - Upgrade your equipment.	{@st59b}{s20}장비 업그레이드 시스템{/}{nl}{@st59s} {nl} - 장비를 업그레이드 합니다.				
+UI_20240909_005675	{@st59b}Auto-Use Potions{nl}{@st59s} - The automatic use function only operates on Kupole equipped in the main slot.{nl} - Activates when left-clicking the On/Off button below.{nl} - When activated, automatically uses the potion every cooldown.{nl} - Cannot be used in Town and Team Battle League{/}	{@st59b}포션 자동사용{nl}{@st59s} - 메인 슬롯에 장착한 큐폴만 자동사용 기능 동작.{nl} - 아래 On/Off 버튼 좌클릭 시 작동.{nl} - 활성화 시 재사용 대기시간 마다 자동 사용.{nl} - 마을, 팀 배틀 리그에서는 기능 사용불가{/}				
+UI_20240909_005676	Participation conditions: Less than {#FFFF00}Lv.%s{/}	참여 조건 : {#FFFF00}Lv.%s{/} 미만				
+UI_20240909_005677	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/} {#003997}and "Season Reward"{/}item for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템과 {#003997} "시즌 보상"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20210809_004887	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	
+UI_20240911_005678	Growth Achievements 	성장 목표															
+UI_20240911_005679	※ Equipments succession of {#FFFF00}Weapon/Armor/Accessory{/} that is not from the event will not be reflected.	※ 이벤트 장비가 아닌 {#FFFF00}무기/방어구/액세서리{/}의 계승은 이벤트에 반영되지 않습니다.	UI_20230904_005539	※ The Gear Score of {#FFFF00}Weapon/Armor/Accessory{/} that is not from the event will not be reflected.	※ 이벤트 장비가 아닌 {#FFFF00}무기/방어구/액세서리{/}의 기어 스코어는 이벤트에 반영되지 않습니다.												
+UI_20240926_005680	{@st43}{s24}Black Market - Goddess Token (Jurate)	{@st43}{s24}블랙 마켓 - 여신의 증표(유라테)	UI_20231218_005562	{@st43}{s24}Black Market - Goddess Token (Lada)	{@st43}{s24}블랙 마켓 - 여신의 증표(라다)
+UI_20240926_005681	Obtain them via tab.{nl} {nl}[Entry limit for Blockade Battle]{nl} You may enter the Blockade Battle once you have reached the maximum level. 	탭을 통해 획득할 수 있습니다.{nl} {nl}[봉쇄전 입장 제한]{nl} 봉쇄전 입장은 최대 레벨 달성시에만 입장 가능합니다.	UI_20200710_004382	obtain them via tab.	탭을 통해 획득할 수 있습니다.
+UI_20241205_005682	{@st41b}{s20}{img %s 35 35} %s{nl}Draw Gift	{@st41b}{s20}{img %s 35 35} %s{nl}선물 뽑기				
+UI_20241205_005683	Time remaining {nl}%s/180 seconds	남은 시간{nl}%s/180초				
+UI_20241205_005684	{@st41b}{s18}%s times	{@st41b}{s18}%s회				
+UI_20241209_005685	{@st41b}{s20}{img %s 40 40} %s{nl}Gift Draw	{@st41b}{s20}{img %s 40 40} %s{nl}선물 뽑기				
+UI_20241209_005686	Time remaining {nl}%s/300 seconds	남은 시간{nl}%s/300초				
+UI_20241209_005687	{@st41b}{s18}%s round	{@st41b}{s18}%s회차				
+UI_20250212_005688	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/} {#003997}and "Season Reward ([Lv.520] Advanced Goddess Ichor Fragment II, Jurate's Blessed Random Cube A)"{/}item for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템과 {#003997} "시즌 보상([Lv.520] 상급 가디스 아이커 파편 II, 축복받은 유라테의 랜덤 큐브 A)"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20240909_005677	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/} {#003997}and "Season Reward"{/}item for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템과 {#003997} "시즌 보상"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.		
+UI_20250710_005689	@st43}{s22}Relic Exhibit Stand{/}	{@st43}{s22}유물 전시대{/}				
+UI_20250710_005690	{@st59}Close Relic Exhibit Stand{/}	{@st59}유물 전시대를 닫습니다{/}				
+UI_20250710_005691	{@st66d}{s18}Passive	{@st66d}{s18}패시브 효과				
+UI_20250710_005692	{@st66d}{s18}Cost: %s/%s	{@st66d}{s18}코스트: %s/%s				
+UI_20250710_005693	{@st66d}{s18}Until Next Stage : %s{img icon_item_event_archeology_coin 45 45}	{@st66d}{s18}다음 단계 까지 : %s{img icon_item_event_archeology_coin 45 45}				
+UI_20250710_005694	{@st42}Exhibit Stand Rank Increase	{@st42}전시대 등급 상승				
+UI_20250710_005695	{@st42}Reset	{@st42}리셋				
+UI_20250710_005696	{@st41b}{s20}Wanted Board	{@st41b}{s20}지명수배 게시판	UI_20210809_004740	{@st41b}{s20}Use Order	{@st41b}{s20}지령서 사용	
+UI_20250710_005697	Use Directive	지령서 사용	ETC_20150317_001917	Enabled	사용	
+UI_20250710_005698	Golden Sunfish Hunt	황금 개복치 사냥				
+UI_20250710_005699	{@st42}Completed	{@st42}조제 완료				
+UI_20250711_005700	{@st66d}Finished Crafting	{@st66d}조제 종료	UI_20250710_005699	{@st42}Completed	{@st42}조제 완료	
+UI_20250711_005701	{@st43}{s22}Archaeology Exhibit Stand{/}	{@st43}{s22}고고학 전시대{/}	UI_20250710_005689	@st43}{s22}Relic Exhibit Stand{/}	{@st43}{s22}유물 전시대{/}	
+UI_20250711_005702	{@st66d}{s18}Until Next Stage : %s{img icon_item_event_archeology_coin 40 40}	{@st66d}{s18}다음 단계 까지 : %s{img icon_item_event_archeology_coin 40 40}	UI_20250710_005693	{@st66d}{s18}Until Next Stage : %s{img icon_item_event_archeology_coin 45 45}	{@st66d}{s18}다음 단계 까지 : %s{img icon_item_event_archeology_coin 45 45}	
+UI_20250826_005703	Final Boss Buff Status	최종 보스 버프 현황				
+UI_20250826_005704	Buff/Penalty Selection Status	버프/패널티 선택 현황				
+UI_20250826_005705	Buff/Penalty Selection	버프/패널티 선택				
+UI_20250826_005706	Cancel Selection	선택 취소				
+UI_20250826_005707	{@st59}Cancel Buff/Penalty Selection.{nl}Unable to receive the effect once canceled.{/}	{@st59}버프/패널티 선택을 취소합니다.{nl}선택 취소시 선택지의 효과를 적용받지 못합니다.{/}				
+UI_20250826_005708	Remaining Time: %s seconds	남은 시간 : %s초				
+UI_20250826_005709	%sArea	%s구역				
+UI_20250826_005710	{@st61}{s24}Goddess Rank Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor, Goddess Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level 	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력이 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커, 가디스 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 	UI_20220823_005355	{@st61}{s24}Goddess Rank Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient{/}.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor, Goddess Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커, 가디스 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 	
+UI_20250826_005711	{@st66b}Arachne Sisters{/}	{@st66b}아라크네 자매{/}	UI_20210115_004581	{@st66b}Giltine{/}	{@st66b}길티네{/}	
+UI_20250826_005712	Arachne Sisters Blockade Battle	아라크네 자매 봉쇄전	UI_20221125_005408	Giltine Blockade Battle	길티네 봉쇄전	
+UI_20250826_005713	{s16}{ol}{#FFFFFF}Reward List	{s16}{ol}{#FFFFFF}보상 목록	UI_20200710_004385	{s16}{ol}{#FFFFFF}Receive rewards	{s16}{ol}{#FFFFFF}보상 수령	
+UI_20250826_005714	{@st59}Infernal Realm Status Menu{/}	{@st59}마족 소굴 상태 창{/}				
+UI_20250826_005715	Core Management	코어 관리				
+UI_20250826_005716	{@st61}{s24}Core Management{/}{s18}{nl}	{@st61}{s24}코어 관리 시스템{/}{s18}{nl}				
+UI_20250826_005717	{@st66b}Awakening Materials{/}	{@st66b}해방 소재 관련{/}				
+UI_20250826_005718	{@st66b}Awaken{/}	{@st66b}해방{/}				
+UI_20250826_005719	Forgeable Materials	재련 가능 아이템				
+UI_20250826_005720	{img sysmenu_inv 25 25} In Possession. 	{img sysmenu_inv 25 25}  보유 수량				
+UI_20250826_005721	{@59}Back{/}	{@59}클릭시 이전페이지로{/}				
+UI_20250826_005722	Item Craft by Forging	제련으로 생성할 아이템				
+UI_20250826_005723	[Lv.540] Awaken Stone	[Lv.540] 해방석				
+UI_20250826_005724	Required Points	생성에 필요한 포인트				
+UI_20250826_005725	Possessed Materials	보유 재료				
+UI_20250826_005726	Amount Used	사용량				
+UI_20250826_005727	Forge	제련하기				
+UI_20250826_005728	Awaken	해방하기				
+UI_20250826_005729	{@st42}{s20}Awaken Level: %s/%s{/}	{@st42}{s20}해방 단계 : %s/%s{/}				
+UI_20250826_005730	Required Points	해방에 필요한 포인트				
+UI_20250826_005731	Place Core Item	코어 아이템을 올려주세요				
+UI_20250826_005732	Fragmenting a core returns 60% of the materials spent on awakening.	분해 시 코어 아이템은 파괴되며,해방 단계에 사용한 소재의 60%를 돌려받을 수 있습니다.				
+UI_20250826_005733	{@st59}Core{/}	{@st59}코어{/}				
+UI_20250826_005734	{@st59}Core Management{/}	{@st59}코어 관리{/}				
+UI_20250826_005735	[Lv.540] Aether Crystal	[Lv.540] 에테르 크리스탈				
+UI_20250826_005736	{@st59}Input the Quantity{/}	{@st59}사용할 개수를 입력합니다.{/}				
+UI_20250826_005737	Buff Name	버프 이름				
+UI_20250826_005738	Buff Description	버프 설명				
+UI_20250826_005739	Selection	선택지				
+UI_20250826_005740	{@st56}%s(%sStage){/}	{@st56}%s(%s단계){/}				
+UI_20250826_005741	Penalty Name	패널티 이름				
+UI_20250826_005742	Buff Selection Description	버프 선택지 설명				
+UI_20250826_005743	Penalty Selection Description 	패널티 선택지 설명				
+UI_20250826_005744	Selection Name	선택지 이름				
+UI_20250826_005745	{@st42_red}%sStage{/}	{@st42_red}%s단계{/}				
+UI_20250901_005746	Random Select	랜덤 선택			
+UI_20250901_005747	{@st59}Randomly Select Buff/Penalties.	{@st59}버프/패널티를 랜덤하게 선택합니다.			
+UI_20250902_005748	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/} {#003997}and "Season Reward ([Lv.540] Advanced Goddess Ichor Fragment II, Austeja's Blessed Random Cube A)"{/}item for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템과 {#003997} "시즌 보상([Lv.540] 상급 가디스 아이커(방어구) 파편 II, [Lv.540] 상급 가디스 아이커(무기) 파편 II, 축복받은 [아우스테야]의 랜덤 큐브 A)"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20250212_005688	{@st66b}[Clear Reward]{nl}Enhance the {#003997}"Aether Gem"{/} via NPC Kupole that appears upon clearing.{nl}Enhance Rate increases when higher the stage is.{nl} {nl}[Season Reward]{nl}{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/} {#003997}and "Season Reward ([Lv.520] Advanced Goddess Ichor Fragment II, Jurate's Blessed Random Cube A)"{/}item for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Mercenary Badge"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl}{nl}{s13}{#003997}Entry is limited from 5~ 6 AM every Monday{/}{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템과 {#003997} "시즌 보상([Lv.520] 상급 가디스 아이커 파편 II, 축복받은 유라테의 랜덤 큐브 A)"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.
+UI_20250905_005749	Статус	현황				
+UI_20250905_005750	{@st42b}{s12}{ol}%s{/}Area	{@st42b}{s12}{ol}%s{/}구역				
+UI_20251209_005751	{@st66b}{s18}Event{/}	{@st66b}{s18}이벤트{/}				
+UI_20251209_005752	{@st59}Guild Contents{/}	{@st59}길드 콘텐츠{/}				
+UI_20251209_005753	Point Exchange	포인트 변환				
+UI_20251209_005754	Remaining Time{nl}%s/300 	남은 시간{nl}%s/300	UI_20241209_005686	Time remaining {nl}%s/300 seconds	남은 시간{nl}%s/300초	
+UI_20251209_005755	{@st43}Guild Contents{/}	{@st43}길드 콘텐츠{/}				
+UI_20251209_005756	{@st59b}Guild Contents{nl}{@st59s}Guild Growth, Guild Quest, and Guild Tower functions are usable.{nl} - Guild Growth : Guild Growth, Guild Attribute, and Guild Hangout expansion.{nl} - Guild Quest : Can check and enter Guild Boss Raid, Guild Mission, Blockade Battle (Ranking Info).{nl} - Tower Function : Crafting Time Reduction Buff and move to Guild Hangout. Guild Tower Status and Control available.{/}	{@st59b}길드 콘텐츠{nl}{@st59s}길드 성장과 길드 퀘스트 및 길드 타워의 기능들을 사용할 수 있습니다.{nl} - 길드 성장 : 길드 성장, 길드 특성, 길드 아지트 확장을 할 수 있습니다.{nl} - 길드 퀘스트 : 길드 보스 레이드, 길드 미션, 봉쇄전(봉쇄전 랭킹 정보)을 확인하고 참여가능합니다.{nl} - 타워 기능 : 제작 시간 감소 버프 획득 및 길드 아지트로 이동이 가능하며 길드 타워의 상태와 조작이 가능합니다.{/}				
+UI_20251209_005757	{@st59}Close Guild Contents Window{/}	{@st59}길드 콘텐츠 창을 닫습니다{/}				
+UI_20251209_005758	Guild Activity	길드 활동				
+UI_20251209_005759	{@st43}Guild Quest{/}	{@st43}길드 퀘스트{/}				
+UI_20251209_005760	{@st43}Tower Function{/}	{@st43}타워 기능{/}				
+UI_20251209_005761	Detailed Window	세부 화면				
+UI_20251209_005762	Growth Contribution Ranking	성장 기여도 랭킹				
+UI_20251209_005763	Available Attribute Point: %sp	사용 가능한 특성 포인트 : %sp				
+UI_20251209_005764	Materials Required for Expansion	확장에 필요한 재료				
+UI_20251209_005765	Guild Hangout Expansion Lv and Info 	길드 아지트 확장 단계 정보				
+UI_20251209_005766	Guild Boss Raid Reward	길드 보스 레이드 보상				
+UI_20251209_005767	{@st43}Back{/}	{@st43}뒤로{/}				
+UI_20251209_005768	{@st43}Старт{/}	{@st43}시작 하기{/}				
+UI_20251209_005769	Guild Mission Reward	길드 미션 보상				
+UI_20251209_005770	{@st43}Rank{/}	{@st43}랭크{/}				
+UI_20251209_005771	Blockade Battle Reward	봉쇄전 보상				
+UI_20251209_005772	Blockade Battle Ranking Reward Info	봉쇄전 랭킹 보상 정보				
+UI_20251209_005773	Reduce Craft Time Buff Explanation	제작 시간 감소 버프 설명				
+UI_20251209_005774	{s16}{ol}{#FFFFFF}Recieve Buff	{s16}{ol}{#FFFFFF}버프 받기				
+UI_20251209_005775	{s16}{ol}{#FFFFFF}Move to Guild Hangout	{s16}{ol}{#FFFFFF}아지트로 이동				
+UI_20251209_005776	0Day 0Hour 0Min	0일 0시간 0분				
+UI_20251209_005777	{s16}{ol}{#FFFFFF}Remove Guild Tower	{s16}{ol}{#FFFFFF}길드 타워 제거				
+UI_20251209_005778	{@st42b}{s18}{#ffcc33}※Able to dismantle costumes obtained from the 10th Anniv. Lucky Box and exchange with Glacial Coins.{nl} {nl}※Costumes that cannot be traded personally or put on the market cannot be dismantled.{/}	{@st42b}{s18}{#ffcc33}※10주년 행운 상자를 통해 획득한 코스튬을 분해하여 빙하 주화를 획득할 수 있습니다.{nl} {nl}※개인/마켓 거래가 불가능한 코스튬은 분해가 불가능합니다.{/}				
+UI_20251209_005779	{@st41b}Current %s: %s{/}	{@st41b}현재 %s: %s{/}	UI_20201030_004536	{@st41b}Current Points: %s{/}	{@st41b}현재 포인트: %s{/}	
+UI_20251209_005780	{@st41b}Obtain %s: {#ec0000}%s{/}{/}	{@st41b}획득 %s: {#ec0000}%s{/}{/}	UI_20201030_004537	{@st41b}Obtained Points: {#ec0000}%s{/}{/}	{@st41b}획득 포인트: {#ec0000}%s{/}{/}	
+UI_20251209_005781	{@st41b}Total %s: {@st66d_y}%s{/}{/}	{@st41b}총 %s: {@st66d_y}%s{/}{/}	UI_20201030_004538	{@st41b}Total Points: {@st66d_y}%s{/}{/}	{@st41b}총 포인트: {@st66d_y}%s{/}{/}	
+UI_20251209_005782	{@st59}Contents Menu{/}	{@st59}콘텐츠 메뉴{/}				
+UI_20251209_005783	Attribute Level Increase	특성 레벨 증가				
+UI_20251209_005784	Guild Quest Name	길드 퀘스트 이름				
+UI_20251209_005785	Facility Name	시설 이름				
+UI_20251209_005786	Facility Effect	시설 효과				
+UI_20251217_005787	{#ff0000}Items purchased from the Glacial Shop are untradable and{nl} team storage only.	{#ff0000}빙하 주화 상점에서 획득하는 아이템은 팀 창고{nl} 이동만 가능합니다.				
+UI_20251218_005788	{#ff0000}Items from the Glacial Shop are untradable and team storage only.	{#ff0000}빙하 주화 상점에서 획득하는 아이템은 팀 창고 이동만 가능합니다.
+UI_20251222_005789	{@st42}Physical	{@st42}물
+UI_20251222_005790	{@st42}Magic	{@st42}마
+UI_20251222_005791	{@st42}Heal	{@st42}힐
+UI_20251229_005792	{@st41b}Идентификация реликвии{/}	{@st41b}유물 감정{/}			
+UI_20251229_005793	{@st59}Закрыть окно идентификации.{/}	{@st59}감정 창을 닫습니다.{/}			
+UI_20251229_005794	{@st59}Пожалуйста, поместите реликвию для идентификации.{/}	{@st59}감정할 유물을 올려주세요{/}			
+UI_20251229_005795	{@st41b}Идентифицировать{/}	{@st41b}감정하기			
